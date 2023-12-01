@@ -107,7 +107,8 @@ output file:
 
 
 ## 6. Reference trained models and validation results
-- Reference results can be found in the zip file "results/final-01.zip". It includes the weight files, train/validation logs.
+- Reference results can be found in the zip file "final-01.zip". It includes the weight files, train/validation logs.
+- Please download from share google drive: [https://drive.google.com/drive/folders/13zgzaB-kl9CnPcXfibCfxnUY5WtHJLbQ?usp=sharing](https://drive.google.com/drive/folders/13zgzaB-kl9CnPcXfibCfxnUY5WtHJLbQ?usp=sharing)
   
 
 ## Authors
