@@ -1,5 +1,5 @@
-## Kaggle Competition Solution
-# Google - Fast or Slow? Predict AI Model Runtime (6-th)
+## Kaggle Competition Solution (6th)
+# Google - Fast or Slow? Predict AI Model Runtime 
 https://www.kaggle.com/competitions/predict-ai-model-runtime/
 
 For discussion, please refer to:  
